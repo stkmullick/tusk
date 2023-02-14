@@ -2,3 +2,4 @@ Welcome
 
 rice
 noodles
+chicken
